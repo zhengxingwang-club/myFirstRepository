@@ -2,3 +2,6 @@ public void static main(){
   int a =0;
   a++;
 }
+public void pprint(){
+  system.out.println(wjd);
+}
