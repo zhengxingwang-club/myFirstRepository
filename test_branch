@@ -1,7 +1,4 @@
 public void static main(){
-  int a =0;
-  a++;
+  全都删除，只留main
 }
-public void pprint(){
-  system.out.println(wjd);
-}
+
